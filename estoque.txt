@@ -1,0 +1,2 @@
+queijo|25|frios|49
+cebola|4|verduras|20

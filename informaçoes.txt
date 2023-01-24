@@ -1,0 +1,6 @@
+categoria comfirmada
+estoque confirmado
+fornecedor confirmado
+cliente confirmado
+funcionario confirmado
+venda confirmada
